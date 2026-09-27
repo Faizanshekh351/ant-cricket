@@ -1,0 +1,21 @@
+{
+  "name": "antseed-cricket",
+  "version": "1.0.0",
+  "description": "ANT CRICKET - 3D AI Motion & Touch Cricket Batting Game built with Antseed AI GLM 5.3 Lite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "antseed-ai",
+    "glm-5.3-lite",
+    "hackathon",
+    "cricket-3d",
+    "motion-gaming",
+    "mediapipe",
+    "threejs"
+  ],
+  "author": "Antseed AI",
+  "generator": "Antseed AI GLM 5.3 Lite",
+  "license": "MIT"
+}

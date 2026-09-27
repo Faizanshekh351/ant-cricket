@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Raw 3D authoring files & large source archives
+*.blend
+*.blend1
+*.rar
+*.7z
+*.max
+*.PSD
+*.psd
+*.obj
+*.fbx
+stadium-custom.glb
+bat_pack/
+
+# Diagnostic & scraper scripts
+diagnose_preparing.js
+find_action_usage.js
+find_disabled.js
+find_load_logic.js
+find_nx.js
+find_scene_load.js
+find_sl.js
+find_tx.js
+find_x_action.js
+patch_instant_field.js
+download_all_assets.js
+download_sounds.js
+verify_server.js
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
