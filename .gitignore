@@ -33,3 +33,12 @@ verify_server.js
 *.log
 .DS_Store
 Thumbs.db
+
+# Media recordings and private env files
+*.mp4
+*.mov
+*.webm
+*.mkv
+.env
+.env.*
+
